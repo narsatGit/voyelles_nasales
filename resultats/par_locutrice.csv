@@ -1,0 +1,5 @@
+locuteur,groupe,n,N,ON,O,?,%_N,%_non_nasale_parmi_jugees,%_non_confirmee (ON+O+?),n_evaluables,n_alignes,%_alignes_sur_la_voyelle,n_pb_alignement_commentaire,n_pb_transcription_commentaire,n_bornes_(alignees),ecart_borne_median_ms_(alignees),%_bornes_a_20ms_(alignees),n_formants_(alignees),MAE_F1_Hz_(alignees),MAE_F2_Hz_(alignees),%_F1_a_100Hz_(alignees),%_F2_a_200Hz_(alignees)
+francophone,native,20,20,0,0,0,100.0,0.0,0.0,19,18,94.7,1,1,18,10.0,44.4,18,53.0,56.7,83.3,94.4
+mandarinophone,non native,20,11,4,1,4,55.0,31.2,45.0,20,14,70.0,4,5,14,10.0,35.7,14,33.0,128.7,92.9,85.7
+russophone,non native,20,16,1,0,3,80.0,5.9,20.0,20,8,40.0,12,2,8,20.0,25.0,8,32.2,132.8,87.5,87.5
+TOUTES_NON_NATIVES,non native,40,27,5,1,7,67.5,18.2,32.5,40,22,55.0,16,7,22,20.0,31.8,22,32.7,130.2,90.9,86.4

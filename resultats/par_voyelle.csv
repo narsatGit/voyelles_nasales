@@ -1,0 +1,17 @@
+locuteur,groupe,voyelle,n,N,ON,O,?,%_N,%_non_nasale_parmi_jugees,%_non_confirmee (ON+O+?),n_evaluables,n_alignes,%_alignes_sur_la_voyelle,n_pb_alignement_commentaire,n_pb_transcription_commentaire,n_bornes_(alignees),ecart_borne_median_ms_(alignees),%_bornes_a_20ms_(alignees),n_formants_(alignees),MAE_F1_Hz_(alignees),MAE_F2_Hz_(alignees),%_F1_a_100Hz_(alignees),%_F2_a_200Hz_(alignees),alerte_effectif
+francophone,native,[ɑ̃],9,9,0,0,0,100.0,0.0,0.0,9,9,100.0,0,0,9,10.0,33.3,9,47.2,62.9,88.9,88.9,
+francophone,native,[ɔ̃],5,5,0,0,0,100.0,0.0,0.0,5,4,80.0,0,0,4,10.0,75.0,4,46.1,53.1,100.0,100.0,
+francophone,native,[ɛ̃],4,4,0,0,0,100.0,0.0,0.0,3,3,100.0,1,1,3,15.0,66.7,3,66.7,41.7,66.7,100.0,n<5 : ne pas interpréter les %
+francophone,native,[œ̃],2,2,0,0,0,100.0,0.0,0.0,2,2,100.0,0,0,2,17.5,0.0,2,72.1,58.4,50.0,100.0,n<5 : ne pas interpréter les %
+mandarinophone,non native,[ɑ̃],8,7,0,0,1,87.5,0.0,12.5,8,4,50.0,3,2,4,15.0,50.0,4,25.5,79.7,100.0,100.0,
+mandarinophone,non native,[ɔ̃],2,1,0,0,1,50.0,0.0,50.0,2,2,100.0,0,0,2,5.0,50.0,2,11.6,254.0,100.0,50.0,n<5 : ne pas interpréter les %
+mandarinophone,non native,[ɛ̃],3,0,1,1,1,0.0,100.0,100.0,3,3,100.0,0,1,3,20.0,0.0,3,75.0,117.6,66.7,100.0,n<5 : ne pas interpréter les %
+mandarinophone,non native,[œ̃],7,3,3,0,1,42.9,50.0,57.1,7,5,71.4,1,2,5,10.0,40.0,5,22.4,124.5,100.0,80.0,
+russophone,non native,[ɑ̃],5,3,1,0,1,60.0,25.0,40.0,5,1,20.0,3,0,1,5.0,100.0,1,0.9,0.0,100.0,100.0,
+russophone,non native,[ɔ̃],4,4,0,0,0,100.0,0.0,0.0,4,2,50.0,2,0,2,35.0,0.0,2,26.7,124.0,100.0,100.0,n<5 : ne pas interpréter les %
+russophone,non native,[ɛ̃],5,5,0,0,0,100.0,0.0,0.0,5,2,40.0,3,1,2,25.0,0.0,2,16.0,85.4,100.0,100.0,
+russophone,non native,[œ̃],6,4,0,0,2,66.7,0.0,33.3,6,3,50.0,4,1,3,15.0,33.3,3,57.2,214.4,66.7,66.7,
+TOUTES_NON_NATIVES,non native,[ɑ̃],13,10,1,0,2,76.9,9.1,23.1,13,5,38.5,6,2,5,10.0,60.0,5,20.6,63.8,100.0,100.0,
+TOUTES_NON_NATIVES,non native,[ɔ̃],6,5,0,0,1,83.3,0.0,16.7,6,4,66.7,2,0,4,20.0,25.0,4,19.2,189.0,100.0,75.0,
+TOUTES_NON_NATIVES,non native,[ɛ̃],8,5,1,1,1,62.5,28.6,37.5,8,5,62.5,3,2,5,20.0,0.0,5,51.4,104.7,80.0,100.0,
+TOUTES_NON_NATIVES,non native,[œ̃],13,7,3,0,3,53.8,30.0,46.2,13,8,61.5,5,3,8,10.0,37.5,8,35.5,158.2,87.5,75.0,

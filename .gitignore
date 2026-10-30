@@ -1,0 +1,24 @@
+# Audio et vidéo (non diffusés)
+*.[Ww][Aa][Vv]
+*.[Mm][Pp]3
+*.[Ff][Ll][Aa][Cc]
+*.[Oo][Gg][Gg]
+*.[Oo][Pp][Uu][Ss]
+*.[Mm]4[Aa]
+*.[Aa][Aa][Cc]
+*.[Mm][Pp]4
+*.[Ww][Ee][Bb][Mm]
+*.[Mm][Kk][Vv]
+
+# Transcriptions et alignements (non diffusés)
+*.[Tt]ext[Gg]rid
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Système
+.DS_Store
+Thumbs.db
+~$*
