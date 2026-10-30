@@ -76,7 +76,6 @@ Le script `scripts/comparer_manuel_auto.py` associe mes annotations aux valeurs 
 | **Problèmes signalés** | voyelles dont mon commentaire mentionne un problème d'alignement ou de transcription (détection par mots-clés, à relire) |
  
  
- 
 ## Résultats
  
 ### Les locutrices entre elles
