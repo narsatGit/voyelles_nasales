@@ -7,7 +7,7 @@
 
 Ma question de départ était : **Comment des locutrices de langue maternelle russe ou mandarin produisent-elles les voyelles nasales du français, par rapport à une locutrice native ?**
 
-Le choix de se focaliser sur les voyelles nasales se justifie par les différences entre le système vocalique du français et ceux du russe et du mandarin. En russe, les voyelles nasales ne constituent pas des phonèmes indépendants, même si une nasalisation phonétique peut apparaître au contact de consonnes nasales (Solonina, E. G., 2018). En mandarin standard, les rimes syllabiques peuvent comporter une voyelle suivie d'une coda nasale /n/ ou /ŋ/. La voyelle précédente peut également subir une nasalisation par coarticulation, sans que cela implique l'existence de voyelles nasales phonémiques comparables à celles du français (Li, 2008 ; Luo et al. , 2020).
+Le choix de se focaliser sur les voyelles nasales se justifie par les différences entre le système vocalique du français et ceux du russe et du mandarin. En russe, les voyelles nasales ne constituent pas des phonèmes indépendants, même si une nasalisation phonétique peut apparaître au contact de consonnes nasales (Solonina, E. G., 2018). En mandarin, les rimes syllabiques peuvent comporter une voyelle suivie d'une coda nasale /n/ ou /ŋ/. La voyelle précédente peut également subir une nasalisation par coarticulation, sans que cela implique l'existence de voyelles nasales phonémiques comparables à celles du français (Fu, W. 2025, p.4).
 
 Ces différences entre les systèmes phonologiques constituent un point de départ pertinent pour examiner les modalités de production des voyelles nasales françaises chez les locutrices russophones et sinophones, notamment en comparaison avec une locutrice native.
 
@@ -181,6 +181,5 @@ Pour appliquer la chaîne à d'autres enregistrements alignés avec WebMAUS (fra
 - Python : pandas, numpy, matplotlib, openpyxl.
 - Excel
 - Claude AI (Anthropic)
-- Li, Y. (2008). An acoustically based contrastive study of L1 and L2 nasal coda production. In Proceedings of the 2008 Annual Conference of the Canadian Linguistic Association.
-- Luo, M., Van de Weijer, J., & Sloos, M. (2020). “A perceptually-based OT approach to opacity in Mandarin Chinese nasal rhymes.” In D. Chen & D. Bell (Eds.), Explorations of Chinese Theoretical and Applied Linguistics (pp. 8–43). Cambridge Scholars Publishing
+- Fu, W. (2025). The Mandarin accent in French։ characterization and remediation (Doctoral dissertation, Université de la Sorbonne nouvelle-Paris III), p.4
 - Solonina, E. G. (2018). « Акустические и перцептивные признаки коартикуляционной назализации гласных в русском языке » [Caractéristiques acoustiques et perceptives de la nasalisation coarticulatoire des voyelles en russe]. Speech Technology / Речьевые технологии, 2018(2).
