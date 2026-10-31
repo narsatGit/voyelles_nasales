@@ -176,8 +176,9 @@ Pour appliquer la chaîne à d'autres enregistrements alignés avec WebMAUS (fra
 ## Outils et références
 
  
-- Alignement : WebMAUS. Kisler, T., Reichel, U. et Schiel, F. (2017), « Multilingual processing of speech via web services », *Computer Speech & Language*, 45, p. 326-347.
-- Analyse acoustique : Praat. Boersma, P. et Weenink, D., *Praat: doing phonetics by computer*, <https://www.praat.org>. Le script d'extraction est adapté d'un script de cours (linguistique du corpus, 2024, L3 SDL, UNICAEN).
+- Alignement automatique : WebMAUS, https://clarin.phonetik.uni-muenchen.de/BASWebServices/interface/WebMAUSBasic
+- Transcription automatique : Tadddam, https://tadddam.univ-grenoble-alpes.fr/
+- Analyse acoustique : Praat,  https://www.praat.org . Le script d'extraction est adapté d'un script du cours (linguistique du corpus, 2024, L3 SDL, UNICAEN).
 - Python : pandas, numpy, matplotlib, openpyxl.
 - Excel
 - Claude AI (Anthropic)
